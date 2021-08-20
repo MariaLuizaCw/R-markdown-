@@ -5,7 +5,10 @@ output: html_document
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
+<<<<<<< HEAD
 library(tidyverse)
+=======
+>>>>>>> development
 ```
 
 ## R Markdown
@@ -27,16 +30,22 @@ plot(pressure)
 ```
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+<<<<<<< HEAD
 
 
 ## Including a Dataset
 
 
+=======
+>>>>>>> development
 ```{r}
 df <- read.csv("data/spotify_data.csv",  encoding = "UTF-8")
 head(df)
 ```
+<<<<<<< HEAD
 ```{r}
 summary(df)
 ```
+=======
+>>>>>>> development
 
