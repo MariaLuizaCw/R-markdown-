@@ -14,4 +14,4 @@ Repository to introduce some concepts about Git, GitHub and Jupyter Notebooks.
 
 - [Basic Git Commands](http://guides.beanstalkapp.com/version-control/common-git-commands.html)
 - [Fork and Pull Request](https://opensource.com/article/19/7/create-pull-request-github)
-- [VSCode Jupyter Notebook with Python, R, Julia [Visual Studio Code](https://www.youtube.com/watch?v=_10avr-dOSE)
+- [VSCode Jupyter Notebook with Python, R, Julia Visual Studio Code](https://www.youtube.com/watch?v=_10avr-dOSE)
